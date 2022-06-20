@@ -1,0 +1,24 @@
+#header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+
+#title {
+  font-size: 25px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+#sub-title {
+  font-style: oblique;
+  margin-bottom: 10px;
+}
+
+#line-break {
+  border-top: 5px dashed #A8DADC;
+  width: 750px;
+  margin-bottom: 20px;
+}
